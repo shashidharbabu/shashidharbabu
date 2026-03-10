@@ -1,11 +1,11 @@
 ## Shashidhar Babu P V D (@shashidharbabu)
 
 **Machine Learning Engineer | AI Engineer | Software Engineer | Data Scientist**  
-I’ve worn different hats throughout my career — I like building production-grade AI systems end-to-end: data → models → infrastructure → developer experience.
+I’ve worn different hats throughout my career — I build production-grade AI systems end-to-end: data → models → infra → developer experience.
 
-- 🌎 Based in San Jose
-- 🧠 Focus: LLM systems, RAG, multimodal AI, Embodied AI, scalable backend/data platforms
-- 🤝 Open to: collaborations, OSS, applied AI engineering
+- 🌎 San Jose, CA
+- 🧠 Focus: LLM systems, RAG, multimodal AI, scalable backend/data platforms
+- 🤝 Open to: OSS + applied AI engineering collaborations
 
 ### Links
 - **GitHub**: https://github.com/shashidharbabu
@@ -36,18 +36,52 @@ High-performance AI/data processing engine with 50+ pipeline nodes, multi-agent 
 
 ---
 
-## 🛠️ Skills & tools
+## 🛠️ Skills (from my resume)
+
+### LLMs / Agent Systems
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge)
+![RLHF](https://img.shields.io/badge/RLHF-111827?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-111827?style=for-the-badge)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+
+### Machine Learning / NLP
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111827)
+![JAX](https://img.shields.io/badge/JAX-111827?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-111827?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### Data Engineering / MLOps
+![Apache%20Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Databases / Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-## 📈 GitHub stats (fun stuff)
-![Stats](https://github-readme-stats.vercel.app/api?username=shashidharbabu&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashidharbabu&layout=compact)
-
----
+## 💬 A bit more about me
+**“data, models, evals & robots(new interest!)”** — I care about the full system: correctness, performance, infra, and shipping.
