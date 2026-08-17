@@ -210,10 +210,12 @@ def build(payload: dict) -> str:
         f'fill="{MUTED}" text-anchor="end"{delayed(0.05)}>Less</text>'
     )
     for i, colour in enumerate(PALETTE):
+        # Kept out of the f-string: nested quotes/backslashes inside an f-string
+        # expression are a syntax error before Python 3.12, and CI runs 3.11.
+        style = "" if STATIC else f' style="animation-delay:{tail + 0.05 + i * 0.05:.2f}s"'
         add(
             f'<rect class="cell" x="{lx_start + i * (box + 3)}" y="{legend_y}" '
-            f'width="{box}" height="{box}" rx="2" fill="{colour}"'
-            f'{"" if STATIC else f" style=\"animation-delay:{tail + 0.05 + i * 0.05:.2f}s\""}/>'
+            f'width="{box}" height="{box}" rx="2" fill="{colour}"{style}/>'
         )
     add(
         f'<text class="mono fade" x="{lx_start + legend_boxes * (box + 3) + 5}" '
