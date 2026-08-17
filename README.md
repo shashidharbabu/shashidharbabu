@@ -26,7 +26,7 @@
 **Machine Learning Engineer | AI Engineer | Software Engineer | Data Scientist**  
 I’ve worn different hats throughout my career — I build production-grade AI systems end-to-end: data → models → infra → developer experience.
 
-- 🌎 San Jose, CA
+- 🌎 San Francisco Bay Area
 - 🧠 Focus: LLM systems, RAG, multimodal AI, scalable backend/data platforms
 - 🤝 Open to: OSS + applied AI engineering collaborations
 
