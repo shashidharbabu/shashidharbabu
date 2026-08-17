@@ -1,0 +1,9 @@
+# Portrait pipeline only. Run locally when the photo changes.
+# NOT installed by the daily GitHub Actions workflow.
+pillow>=10.4.0
+numpy>=1.26
+
+# Optional: background removal for busy/cluttered photos.
+# Needs Python <=3.12 (onnxruntime wheels). Uncomment if you swap in a
+# photo that prep_photo.py's plain-background path can't clean up.
+# rembg>=2.0.57

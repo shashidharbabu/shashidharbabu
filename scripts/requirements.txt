@@ -1,0 +1,4 @@
+# Daily workflow dependencies (fetch + render heatmap).
+# Kept deliberately small so the cron job installs in seconds.
+requests==2.32.3
+beautifulsoup4==4.12.3

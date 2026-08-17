@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# local-only preview harness
+preview.html
+test-photo.jpg
+
+# raw source photo stays local; source-prepped.png is what the pipeline needs
+source-photo.*
