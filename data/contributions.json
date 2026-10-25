@@ -1,24 +1,24 @@
 {
   "username": "shashidharbabu",
-  "generated_at": "2026-10-24T10:55:41Z",
+  "generated_at": "2026-10-25T11:23:14Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
   "stats": {
-    "total": 662,
-    "active_days": 148,
+    "total": 661,
+    "active_days": 147,
     "max_count": 44,
     "best_day": {
       "date": "2026-05-08",
       "count": 44
     },
-    "current_streak": 72,
-    "longest_streak": 72,
-    "longest_streak_end": "2026-10-23",
-    "daily_average": 1.78,
+    "current_streak": 73,
+    "longest_streak": 73,
+    "longest_streak_end": "2026-10-24",
+    "daily_average": 1.81,
     "monthly": {
-      "2025-10": 3,
+      "2025-10": 1,
       "2025-11": 12,
       "2025-12": 10,
       "2026-01": 1,
@@ -30,45 +30,10 @@
       "2026-07": 138,
       "2026-08": 89,
       "2026-09": 127,
-      "2026-10": 50
+      "2026-10": 51
     }
   },
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-21",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1886,6 +1851,11 @@
     },
     {
       "date": "2026-10-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-10-25",
       "count": 0,
       "level": 0
     }
